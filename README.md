@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Build. Break. Learn. Repeat.</b> 🚀
+  <b>Build. Break. Learn. Repeat.</b> 🚀  
+  By **Ranjeet Gujjar** - [Portfolio](https://gujjar23.github.io)
 </p>
 
 ---
@@ -51,8 +52,6 @@ Metasploitable (Target)
 ### 1️⃣ Install VirtualBox
 - Download and install VirtualBox
 
----
-
 ### 2️⃣ Setup Kali Linux
 
 ```bash
@@ -63,14 +62,10 @@ sudo apt update && sudo apt upgrade -y
 - CPU: 2 cores  
 - Disk: 20–100 GB  
 
----
-
 ### 3️⃣ Setup Metasploitable
 
 - Download and extract  
 - Import `.vmdk` into VirtualBox  
-
----
 
 ### 4️⃣ Network Configuration
 
@@ -144,8 +139,11 @@ If you found this useful:
 👉 Give it a ⭐  
 👉 Follow for more cybersecurity projects  
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  Portfolio: <a href="https://gujjar23.github.io">gujjar23.github.io</a>  
+  By **Ranjeet Gujjar**
 </p>
